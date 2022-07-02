@@ -23,6 +23,11 @@ body {
     margin-bottom: 30px;
     font-size: 30px;
   }
+  nav
+  {
+    display: flex;
+    justify-content: center;
+  }
   img{
     width: 60px;
     height: 60px;
